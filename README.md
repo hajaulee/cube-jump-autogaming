@@ -1,0 +1,3 @@
+# cube-jump-autogaming
+
+Requirements: `Pillow`, `OpenCV`, 'Nox', ........
